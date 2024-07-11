@@ -9,7 +9,7 @@ This program is designed to classify images of eye diseases (Diabetic_Retinopath
 
 <img src="https://raw.githubusercontent.com/Tamago55/AI-Image-Classfication-of-Eye-Disease/main/images/slide2.png" width="80%" alt="matrix">
 
-Also, please check more details by following this [link](doc/Image_Classification_of_Diabetic_Retinopathy_with_CNN.pptx).
+Also, please check more details by following this [link](doc/Image_Classification_of_Diabetic_Retinopathy_with_CNN.pdf).
 
 
 ## 2. How to Use
